@@ -1,6 +1,7 @@
 import addTextToHtmlTag from './addTextToHtmlTag';
 function* secondsGenerator(start, end, minGenerator) {
     var value = start;
+    value++;
     while (true) {
         while (value < end) {
             yield value
