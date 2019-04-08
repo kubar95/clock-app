@@ -1,0 +1,1 @@
+gh pages: https://kubar95.github.io/clock-app/

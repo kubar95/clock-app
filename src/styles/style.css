@@ -1,0 +1,23 @@
+body {
+ background-color: black;
+ font-family: 'Oswald', sans-serif;
+}
+.clock{
+  position: absolute;
+  display: flex;
+  background-color: rgb(10, 10, 10);
+  top:50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: rgb(255, 71, 71);
+  width: 200px;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+  border: solid rgb(255, 71, 71) 3px;
+  border-radius: 25px;
+  font-size: 2em;
+}
+.clock__hours, .clock__seconds, .clock__minutes{
+  padding: 0px 10px;
+}
