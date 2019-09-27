@@ -1,3 +1,6 @@
-Online clock using ES6 generators
+## Clock app
 
-gh pages: https://kubar95.github.io/clock-app/
+Online clock app using ES6 generators.
+
+## Demo
+ https://kubar95.github.io/clock-app/
